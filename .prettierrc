@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Production build
+build/
+
+# Test coverage
+coverage/
+
+# Vercel
+.vercel/
+
+# Environment files
+.env
+.env.local
+
+# Generated files
+*.tsbuildinfo
+
+# Public/static assets
+public/
